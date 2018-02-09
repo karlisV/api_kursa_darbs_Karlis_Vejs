@@ -1,5 +1,5 @@
-Feature: Project management sidebar feature
-  Test project management features
+Feature: Request and test case creation
+  Test request and test case creation with global vars
 
   Scenario: Create environment, add collections and requests
     Given I login as regular user
